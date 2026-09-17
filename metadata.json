@@ -1,0 +1,6 @@
+{
+  "name": "PIME - Prompt Injection Mitigation Engine",
+  "description": "Real-time, inline AI firewall and adversarial interception middleware protecting LLMs against OWASP LLM01 threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
